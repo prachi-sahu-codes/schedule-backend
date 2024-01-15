@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Project Kickoff Meeting",
+      "description": "Initiate the new project by discussing goals, milestones, and assigning tasks to team members. Ensure everyone is on the same page and set the groundwork for a successful project launch.",
+      "subject": "Project X",
+      "frequency": "Weekly",
+      "repeat": ["Mon", "Wed", "Fri"],
+      "time": "08:00AM"
+    },
+    {
+      "title": "Monthly Team Review",
+      "description": "Conduct a comprehensive review of team performance, achievements, and areas for improvement. Foster open discussions and strategize for the upcoming month to ensure continuous growth.",
+      "subject": "Team Performance",
+      "frequency": "Monthly",
+      "repeat": ["First Monday"],
+      "time": "10:00AM"
+    },
+    {
+      "title": "Daily Scrum Standup",
+      "description": "Hold a quick daily update on individual tasks, roadblocks, and plans to foster collaboration and ensure the team stays focused on their objectives. This daily ritual promotes transparency and team synergy.",
+      "subject": "Scrum Meetings",
+      "frequency": "Daily",
+      "repeat": [],
+      "time": "09:00AM"
+    },
+    {
+      "title": "Marketing Strategy Session",
+      "description": "Dive deep into the current marketing strategies, analyze their effectiveness, and brainstorm new ideas for better reach and engagement. This session aims to refine the marketing approach and stay ahead in the dynamic market.",
+      "subject": "Marketing",
+      "frequency": "Weekly",
+      "repeat": ["Tue", "Thu"],
+      "time": "11:00AM"
+    },
+    {
+      "title": "Client Progress Review",
+      "description": "Hold a monthly review with the client to discuss project progress, address concerns, and align future plans. Ensure client satisfaction, strengthen the client relationship, and pave the way for project success.",
+      "subject": "Client Collaboration",
+      "frequency": "Monthly",
+      "repeat": ["Last Friday"],
+      "time": "02:00PM"
+    }
+  ]
+  

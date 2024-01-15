@@ -1,0 +1,31 @@
+{
+    "name": "fit-track-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "dev": "nodemon index.js",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/prachi-sahu-codes/fit-track-backend.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/prachi-sahu-codes/fit-track-backend/issues"
+    },
+    "homepage": "https://github.com/prachi-sahu-codes/fit-track-backend#readme",
+    "dependencies": {
+      "bcrypt": "^5.1.1",
+      "cors": "^2.8.5",
+      "dotenv": "^16.3.1",
+      "express": "^4.18.2",
+      "fs": "^0.0.1-security",
+      "helmet": "^7.0.0",
+      "jsonwebtoken": "^9.0.2",
+      "mongoose": "^7.5.3",
+      "nodemon": "^3.0.1"
+    }
+  }
